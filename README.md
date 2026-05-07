@@ -9,5 +9,5 @@ The three examples are:
 - nonmarkovianwaveguide-lorenz.ipynb
 - nonmarkovianwaveguide-cavityarray.ipynb
 
-
+Please communicated questions and commnets through github issues.
 
