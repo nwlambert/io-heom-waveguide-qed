@@ -6,6 +6,7 @@ These are Jupyter notebooks using a local version of the QuTiP HEOM solver (foun
 The three examples are:
 
 - nonmarkovianwaveguide-ohmic.ipynb
+- nonmarkovianwaveguide-ohmic-tdoffresonancequench.ipynb
 - nonmarkovianwaveguide-lorenz.ipynb
 - nonmarkovianwaveguide-cavityarray.ipynb
 
